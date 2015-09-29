@@ -236,7 +236,7 @@ class IntegerStackPrimitive extends IntegerStack {
     }
 
     public int size(){
-        return -1;
+        return -2;
     }
 
     public boolean contains(int x){
